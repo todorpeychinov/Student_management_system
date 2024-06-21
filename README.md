@@ -45,5 +45,10 @@ When the program initially starts, the student list is empty. Until the user sel
   <img src="menu.png" alt="Menu Photo">
 </p>
 
+## 🎥 Video Example Link:
+
+* [▶️ Video Link ](https://github.com/todorpeychinov/Student_management_system/blob/main/video_example.mov)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
